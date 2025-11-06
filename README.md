@@ -1,2 +1,2 @@
 # ngsoftsys.github.io
-NGSoftSys - AI is our Business!
+NGSoftSys - Agentic AI is our core strength.

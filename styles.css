@@ -51,14 +51,12 @@ body {
 
 /* Typography */
 .section-title {
-    font-family: 'Orbitron', monospace;
-    font-size: 2.5rem;
+    font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-size: 2.2rem;
     font-weight: 700;
-    margin-bottom: 1rem;
-    background: var(--gradient-primary);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
+    margin-bottom: 0.75rem;
+    color: var(--text-primary);
+    letter-spacing: -0.5px;
 }
 
 .section-subtitle {
@@ -108,7 +106,7 @@ body {
     display: flex;
     align-items: center;
     gap: 0.5rem;
-    font-family: 'Orbitron', monospace;
+    font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-weight: 700;
     font-size: 1.5rem;
     color: var(--text-primary);
@@ -245,11 +243,11 @@ body {
 }
 
 .hero-title {
-    font-family: 'Orbitron', monospace;
-    font-size: 3.5rem;
-    font-weight: 900;
+    font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-size: 3rem;
+    font-weight: 700;
     line-height: 1.1;
-    margin-bottom: 1.5rem;
+    margin-bottom: 1rem;
     color: var(--text-primary);
 }
 
@@ -427,8 +425,8 @@ body {
 }
 
 .stat-number {
-    font-family: 'Orbitron', monospace;
-    font-size: 2.5rem;
+    font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-size: 2.25rem;
     font-weight: 700;
     color: var(--accent-color);
     margin-bottom: 0.5rem;
@@ -535,10 +533,11 @@ body {
 }
 
 .service-card h3 {
-    font-family: 'Orbitron', monospace;
-    font-size: 1.25rem;
-    margin-bottom: 1rem;
+    font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-size: 1.15rem;
+    margin-bottom: 0.75rem;
     color: var(--text-primary);
+    font-weight: 600;
 }
 
 .service-card p {
@@ -725,7 +724,8 @@ body {
 .footer-section h4 {
     color: var(--text-primary);
     margin-bottom: 1rem;
-    font-family: 'Orbitron', monospace;
+    font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-weight: 600;
 }
 
 .footer-section ul {
@@ -750,9 +750,9 @@ body {
     display: flex;
     align-items: center;
     gap: 0.5rem;
-    font-family: 'Orbitron', monospace;
+    font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-weight: 700;
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     color: var(--text-primary);
     margin-bottom: 1rem;
 }
@@ -846,10 +846,11 @@ body {
 }
 
 .modal-body h3 {
-    font-family: 'Orbitron', monospace;
-    font-size: 1.75rem;
+    font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-size: 1.5rem;
     margin-bottom: 1rem;
     color: var(--text-primary);
+    font-weight: 700;
 }
 
 .modal-body p {

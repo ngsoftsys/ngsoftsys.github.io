@@ -78,6 +78,18 @@ const serviceData = {
             'Process mining and optimization'
         ]
     },
+    'agentic-workflows': {
+        icon: 'fas fa-project-diagram',
+        title: 'Agentic AI Workflows',
+        description: 'Build autonomous agent-driven workflows that orchestrate multi-step processes, integrate systems, and execute decisions with minimal human oversight.',
+        features: [
+            'Multi-agent orchestration and coordination',
+            'Task automation across systems',
+            'Monitoring and human-in-the-loop controls',
+            'Policy and safety guardrails',
+            'Continuous learning and feedback loops'
+        ]
+    },
     'staff-augmentation': {
         icon: 'fas fa-users',
         title: 'Staff Augmented Resourcing',
